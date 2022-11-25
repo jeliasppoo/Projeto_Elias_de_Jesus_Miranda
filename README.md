@@ -30,22 +30,24 @@ Trabalho Prático de Gerencia de Configurações
 - ![show_tag](https://user-images.githubusercontent.com/109083403/204048539-548a4ea0-e208-4f38-9601-512936b290e2.png)
 - ![novaClasse](https://user-images.githubusercontent.com/109083403/204048681-aac348e4-afa0-42c8-b7c7-c6f9b6c52f10.png)
 ## Faça um clone da versão 1.0, isso é possivel, não é possével. para isso vc deve usar as ramificações 
-***realização do clone***
-![clone ArcheLinux](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204051720-8af6e3f8-6953-4898-a1f3-f9e4d4fc4281.png)
-indevida");
-![Edição Distintas](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204052936-eba90f7d-9e89-4c8f-a918-5154e1ee63bb.png)
-indevida");
-![Erro na Configuração inicial](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204054771-77d3a154-36aa-4a2c-93c6-6855cbd51850.png)
-indevida");
-![Configuração inicial Concluída](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204054837-25b975ce-b02d-4856-a86c-ba2e6b640790.png) indevida");
+
+- ![clone ArcheLinux](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204051720-8af6e3f8-6953-4898-a1f3-f9e4d4fc4281.png)
+
+- ![Edição Distintas](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204052936-eba90f7d-9e89-4c8f-a918-5154e1ee63bb.png)
+
+- ![Erro na Configuração inicial](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204054771-77d3a154-36aa-4a2c-93c6-6855cbd51850.png)
+
+- ![Configuração inicial Concluída](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204054837-25b975ce-b02d-4856-a86c-ba2e6b640790.png)
+
 ![Push Realizado via Arche Linux](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204054933-2177cb8d-7d03-4b5b-b279-e0f85b821c91.png)
-indevida");
-![Erro no Push  via Ubuntu](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204055002-44d6b27e-cb38-4902-a157-d8abe1db2424.png)
-indevida");
-![merge Sem Sucesso e arquivo não conte MD4()](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204055361-91ee41e2-6285-4fcb-866e-a7cef729b5e6.png)
-indevida");
-![Notificação Conflitos](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204058139-54f7772f-dd6b-477b-b3df-11b4874e8894.png) indevida");
-![Arquivo com Conflitos](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204058251-3f72b89a-fb76-417e-83f4-43b230467195.png) indevida");
-![comparação de conflitos enre as maquinas](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204058294-fc777843-c444-491e-a565-e0f15afdf99e.png)
-indevida");
+
+- ![Erro no Push  via Ubuntu](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204055002-44d6b27e-cb38-4902-a157-d8abe1db2424.png)
+
+- ![merge Sem Sucesso e arquivo não conte MD4()](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204055361-91ee41e2-6285-4fcb-866e-a7cef729b5e6.png)
+
+- ![Notificação Conflitos](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204058139-54f7772f-dd6b-477b-b3df-11b4874e8894.png)
+
+- ![Arquivo com Conflitos](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204058251-3f72b89a-fb76-417e-83f4-43b230467195.png) 
+
+- ![comparação de conflitos enre as maquinas](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204058294-fc777843-c444-491e-a565-e0f15afdf99e.png)
 
