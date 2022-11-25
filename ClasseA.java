@@ -15,6 +15,8 @@ import java.util.ArrayList;
 class ClasseA {
     private int ahUm;
     private int ahDois;
+    private String ceUm; 
+    private Int ceDois;
 
     public ClasseA(){
         ahUm = 10;        
@@ -35,5 +37,18 @@ class ClasseA {
 
     public void setMatricula(int novoAhDois){
         this.ahDois = novoAhDois;
+    }
+
+    public void ma3(){
+        System.out.println("##Instruções da função não definida no manula de projetos##");
+        // Função que não foi especificado pelo Professor(PO), Tipo da função e as operaçõs que espara para esta função;
+    }
+
+    public void metodoMcUm(){
+        System.out.println("metodoMcUM");
+    }
+
+    public void metodoMcDos(){
+        System.out.println("metodoMcDois");
     }
 }
