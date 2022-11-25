@@ -25,6 +25,8 @@ Trabalho Prático de Gerencia de Configurações
  -![Add No Repositório Local](https://user-images.githubusercontent.com/109083403/204036835-ed36293c-4196-4428-a664-8d2413f94089.png)
  -![Comiit ](https://user-images.githubusercontent.com/109083403/204036944-1a4bd857-248b-4152-bf2f-a5c778caa6a1.png)
  -![Conflito](https://user-images.githubusercontent.com/109083403/204038246-2b73ce65-d915-47d1-84ba-8abeda79c3b6.png)
+ -![push](https://user-images.githubusercontent.com/109083403/204038824-f11baf9b-0519-4940-8b34-fba4a0069051.png)
+ 
  -![push](https://user-images.githubusercontent.com/109083403/204038370-36114752-3d4d-47df-bbb0-bbaa34a5cb57.png)
 
 
