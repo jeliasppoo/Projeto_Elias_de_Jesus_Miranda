@@ -16,7 +16,6 @@ public  class App{
     public static void main (String [] args){
         ClasseA  principal = new ClasseA();
         entrada = new Scanner(System.in);
-
         System.out.println("Digite o Numero");
         int umNome = entrada.nextInt();
         principal.setNome(umNome); 

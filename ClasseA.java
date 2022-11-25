@@ -16,7 +16,7 @@ class ClasseA {
     private int ahUm;
     private int ahDois;
     private String ceUm; 
-    private Int ceDois;
+    private int ceDois;
 
     public ClasseA(){
         ahUm = 10;        
