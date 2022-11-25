@@ -30,3 +30,4 @@ Trabalho Prático de Gerencia de Configurações
 - ![show_tag](https://user-images.githubusercontent.com/109083403/204048539-548a4ea0-e208-4f38-9601-512936b290e2.png)
 - ![novaClasse](https://user-images.githubusercontent.com/109083403/204048681-aac348e4-afa0-42c8-b7c7-c6f9b6c52f10.png)
 - ![clone ArcheLinux](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204063646-e935b279-a01f-44c9-bd3b-562cc6793c57.png)
+- ![Edição Distintas](https://user-images.githubusercontent.com/109083403/204063813-0523d927-94ae-4fc4-a16d-eb8fa4a144d4.png)
