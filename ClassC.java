@@ -11,7 +11,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.ArrayList;
 
-public  class App{
+public  class ClassC{
     static private Scanner entrada;
     public static void main (String [] args){
         ClasseA  principal = new ClasseA();
@@ -19,6 +19,10 @@ public  class App{
         System.out.println("Digite o Numero");
         int umNome = entrada.nextInt();
         principal.setNome(umNome); 
+    }
+
+    public static void metodoCTres(){
+        System.out.println("MC3()");
     }
 }
 

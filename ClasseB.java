@@ -36,4 +36,8 @@ class ClasseB {
     public void setMatricula(String novoBeDois){
         this.beDois = novoBeDois;
     }
+    
+    public void metodoBTres(){
+        System.out.println("MC3()");
+    }
 }
