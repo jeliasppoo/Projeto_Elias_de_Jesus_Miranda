@@ -29,4 +29,5 @@ Trabalho Prático de Gerencia de Configurações
  - ![update](https://user-images.githubusercontent.com/109083403/204046787-8465c25d-b688-4151-83f4-f0082f599d99.png)
  - ![show_tag](https://user-images.githubusercontent.com/109083403/204048539-548a4ea0-e208-4f38-9601-512936b290e2.png)
  - ![novaClasse](https://user-images.githubusercontent.com/109083403/204048681-aac348e4-afa0-42c8-b7c7-c6f9b6c52f10.png)
+## Faça um clone da versão 1.0, isso é possivel, não é possével. para isso vc deve usar as ramificações 
 
