@@ -32,6 +32,7 @@ Trabalho Prático de Gerencia de Configurações
 
 ## Faça um clone da versão 1.0, isso é possivel, não é possével. para isso vc deve usar as ramificações 
 ![Q17](https://user-images.githubusercontent.com/109083403/204049881-1597aa66-7288-44ad-952d-6d6628c051ed.png)
-
+***realização do clone***
+![link-Clone](https://user-images.githubusercontent.com/109083403/204051144-8bd4006e-48bf-46e0-a462-4e6ada7c47ce.png)
 
 
