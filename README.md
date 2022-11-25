@@ -33,6 +33,23 @@ Trabalho Prático de Gerencia de Configurações
 ## Faça um clone da versão 1.0, isso é possivel, não é possével. para isso vc deve usar as ramificações 
 ![Q17](https://user-images.githubusercontent.com/109083403/204049881-1597aa66-7288-44ad-952d-6d6628c051ed.png)
 ***realização do clone***
+
+Maquinas Distintas para promover alteraçãos nós arquivos, que estão no mesmo repositorios central as maquinas estão, uma sendo virtualizada e outra
+um notbook Desktop.
+- Máquinas Distintas                                                                                                                                   
+ As edições forão inserida metos com o memos propositos porem com nomes distintos                                                                       
+ - Edição Distintas                                                                                                                                     
+ Configurção da nova maquina que vai comitar no githob                                                                                                  
+ - Erro na Configuração inicial                                                                                                                         
+ Concluída as configurçõe iníciais                                                                                                                      
+ - Configuração inicial Concluída                                                                                                                       
+ Realizaão de add, commit e push via Arche Linux, realizado com sucesso                                                                                 
+ - Push Realizado via Arche Linux                                                                                                                       
+ Erro na hora de enviar o arquivo para o cervidor centra, via Ubuntu com o comando push, erro de mergen automática, não concluído
+ - Erro no Push  via Ubuntu                                                                                                                             
+ Mergem sem sucesso, necessário um pull e realiar mergem manual                                                                                         
+ - merge Sem Sucesso e arquivo não conte MD4()                                                                                                          
+ - (https://user-images.githubusercontent.com/109083403/204055361-91ee41e2-6285-4fcb-866e-a7cef729b5e6.png       
 ![link-Clone](https://user-images.githubusercontent.com/109083403/204051144-8bd4006e-48bf-46e0-a462-4e6ada7c47ce.png)
 
 
