@@ -13,3 +13,14 @@ Trabalho Prático de Gerencia de Configurações
 ![Comando do Cloene](https://user-images.githubusercontent.com/109083403/204030848-268ec5b0-9113-4f11-ab99-d0e2712c1685.png)
   - Repositório local
 ![ProjetoClonado](https://user-images.githubusercontent.com/109083403/204031007-e780deb1-6c39-4379-9c8d-9bf0679d1f40.png)
+
+##Seção de alterações e atualizaçõs do Projeto:
+
+ - Editando Classe e ma3()
+![EtitandoRepositórioLocal](https://user-images.githubusercontent.com/109083403/204032034-dce7c310-e4fc-485b-a358-fbe067f81399.png)
+  
+ - ![EtitandoRepositórioLocal](https://user-images.githubusercontent.com/109083403/204036383-03147ce2-8659-4297-8bb2-0f0721c9a57a.png)
+ - ![Executalndo Arquivos](https://user-images.githubusercontent.com/109083403/204036516-95d6db45-5510-4bb8-bdf8-1c5ca0dd8334.png)
+ -![Monitoramento ](https://user-images.githubusercontent.com/109083403/204036762-40011ea2-f815-47f8-81b7-a75421da83d2.png)
+ -![Add No Repositório Local](https://user-images.githubusercontent.com/109083403/204036835-ed36293c-4196-4428-a664-8d2413f94089.png)
+ -![Comiit ](https://user-images.githubusercontent.com/109083403/204036944-1a4bd857-248b-4152-bf2f-a5c778caa6a1.png)
