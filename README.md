@@ -9,7 +9,7 @@ Trabalho Prático de Gerencia de Configurações
 ![Criando Classes](https://user-images.githubusercontent.com/109083403/204027479-3fbbad47-f0c3-47da-892e-179bb74f9c79.png)
 
 ## Realizando Clone 
-  - Conando para clone do repositório
+  -  para clone do repositório
 ![Comando do Cloene](https://user-images.githubusercontent.com/109083403/204030848-268ec5b0-9113-4f11-ab99-d0e2712c1685.png)
   - Repositório local
 ![ProjetoClonado](https://user-images.githubusercontent.com/109083403/204031007-e780deb1-6c39-4379-9c8d-9bf0679d1f40.png)
@@ -26,5 +26,7 @@ Trabalho Prático de Gerencia de Configurações
  - ![Conflito](https://user-images.githubusercontent.com/109083403/204038246-2b73ce65-d915-47d1-84ba-8abeda79c3b6.png)
  - ![push](https://user-images.githubusercontent.com/109083403/204038824-f11baf9b-0519-4940-8b34-fba4a0069051.png)
  - ![Tag](https://user-images.githubusercontent.com/109083403/204044242-d297e2c9-458c-424f-acf6-bc3fc4711904.png)
-
+ - ![update](https://user-images.githubusercontent.com/109083403/204046787-8465c25d-b688-4151-83f4-f0082f599d99.png)
+ - ![show_tag](https://user-images.githubusercontent.com/109083403/204048539-548a4ea0-e208-4f38-9601-512936b290e2.png)
+ - ![novaClasse](https://user-images.githubusercontent.com/109083403/204048681-aac348e4-afa0-42c8-b7c7-c6f9b6c52f10.png)
 
