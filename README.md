@@ -30,6 +30,6 @@ Trabalho Prático de Gerencia de Configurações
 - ![show_tag](https://user-images.githubusercontent.com/109083403/204048539-548a4ea0-e208-4f38-9601-512936b290e2.png)
 - ![novaClasse](https://user-images.githubusercontent.com/109083403/204048681-aac348e4-afa0-42c8-b7c7-c6f9b6c52f10.png)
 
-##Faça um clone da versão 1.0, isso é possivel, não é possével. para isso vc deve usar as ramificações 
-- ![clone ArcheLinux](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204063646-e935b279-a01f-44c9-bd3b-562cc6793c57.png) indevida");
+##Faça um clone da versão 1.0, isso é possivel, não é possével. para isso vc deve usar as ramificações
 
+- ![clone ArcheLinux](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204063646-e935b279-a01f-44c9-bd3b-562cc6793c57.png)
