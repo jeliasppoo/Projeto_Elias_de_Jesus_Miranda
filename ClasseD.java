@@ -27,6 +27,10 @@ class ClasseD {
     public int getD_Dois(){
         return dDois;
     }
+
+    public void metodoDTres(){
+	    System.out.print("MD3()");
+    }
 }
 
 
