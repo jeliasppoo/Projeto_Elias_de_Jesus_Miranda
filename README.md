@@ -44,6 +44,7 @@ Trabalho Prático de Gerencia de Configurações
 
 ##Outras Ferramentas e relatórios: 
 1. 27 A Ferramenta disponibiliza um relatório que mostra todas as alterrações já feitas no repositório? 
+- ![git log --pretty=oneline](https://user-images.githubusercontent.com/109083403/204067103-d0c753fd-9a9a-4587-bf3c-96380ade9b09.png)
 **sim**
 2. 28 A Ferramenta dispinibiliza um realatório que mostra todas as versões/alteraçoes de um único mocponete? 
 **sim**
