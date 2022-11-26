@@ -53,10 +53,9 @@ Trabalho Prático de Gerencia de Configurações
   **sim**
   -![git log --graph -7](https://user-images.githubusercontent.com/109083403/204067418-3531e35e-4871-4944-97f2-f56f98aad570.png)
 4. 30 Quais são os outros relatórios a ferramenta disponibilizam?
-  **sim**
-  - Os demas relatório pode sem combinado da maneira que presisarmos
+  **- Os demas relatório pode sem combinado da maneira que presisarmos **
 5. 31 A ferramenta disponibiliza uma inteface gráfica para gerenciar a arvore de versões?
-  **sim**
+  **sim** comando gitk
 - ![Interface Gráfica](https://user-images.githubusercontent.com/109083403/204065524-611e19f8-da9c-4245-ba61-e0c022ef4c2a.png)
 6. Mostre uma interface gráfica que apresente como está a evolução do seu projeto. imagem exemplo de uma interface gráfica está abaixo. 
 - ![Evolução](https://user-images.githubusercontent.com/109083403/204065096-2d6c586f-a6e3-419b-89f1-b266602caddb.png)
