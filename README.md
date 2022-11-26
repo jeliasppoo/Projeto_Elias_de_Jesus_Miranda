@@ -53,6 +53,6 @@ Trabalho Prático de Gerencia de Configurações
 **sim**
 5. 31 A ferramenta disponibiliza uma inteface gráfica para gerenciar a arvore de versões?
 **sim**
+- ![Interface Gráfica](https://user-images.githubusercontent.com/109083403/204065524-611e19f8-da9c-4245-ba61-e0c022ef4c2a.png)
 6. Mostre uma interface gráfica que apresente como está a evolução do seu projeto. imagem exemplo de uma interface gráfica está abaixo. 
-
-- ![Evolução](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204065096-2d6c586f-a6e3-419b-89f1-b266602caddb.png)
+- ![Evolução](https://user-images.githubusercontent.com/109083403/204065096-2d6c586f-a6e3-419b-89f1-b266602caddb.png)
