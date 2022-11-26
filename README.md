@@ -49,11 +49,10 @@ Trabalho Prático de Gerencia de Configurações
 **sim**
 3. 29 Aferramenta disponibiliza um realatório contendo as direnças entre as versões? 
 **sim**
-4. 30 Quais s]ao os outros relatórios a ferramenta disponibilizam?
+4. 30 Quais são os outros relatórios a ferramenta disponibilizam?
 **sim**
-5. 31 A ferramenta disponibiliza uma inteface grafica para gerenciar a arvore de versões?
+5. 31 A ferramenta disponibiliza uma inteface gráfica para gerenciar a arvore de versões?
 **sim**
 6. Mostre uma interface gráfica que apresente como está a evolução do seu projeto. imagem exemplo de uma interface gráfica está abaixo. 
-![Evolução](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204065096-2d6c586f-a6e3-419b-89f1-b266602caddb.png)
-indevida");
 
+- ![Evolução](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204065096-2d6c586f-a6e3-419b-89f1-b266602caddb.png)
