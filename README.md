@@ -42,3 +42,18 @@ Trabalho Prático de Gerencia de Configurações
 - ![Arquivo com Conflitos](https://user-images.githubusercontent.com/109083403/204058251-3f72b89a-fb76-417e-83f4-43b230467195.png)
 - ![comparação de conflitos enre as maquinas](https://user-images.githubusercontent.com/109083403/204058294-fc777843-c444-491e-a565-e0f15afdf99e.png)
 
+##Outras Ferramentas e relatórios: 
+1. 27 A Ferramenta disponibiliza um relatório que mostra todas as alterrações já feitas no repositório? 
+**sim**
+2. 28 A Ferramenta dispinibiliza um realatório que mostra todas as versões/alteraçoes de um único mocponete? 
+**sim**
+3. 29 Aferramenta disponibiliza um realatório contendo as direnças entre as versões? 
+**sim**
+4. 30 Quais s]ao os outros relatórios a ferramenta disponibilizam?
+**sim**
+5. 31 A ferramenta disponibiliza uma inteface grafica para gerenciar a arvore de versões?
+**sim**
+6. Mostre uma interface gráfica que apresente como está a evolução do seu projeto. imagem exemplo de uma interface gráfica está abaixo. 
+![Evolução](https://user-images.githrow new IndexOutOfBoundsException("Posiçãoubusercontent.com/109083403/204065096-2d6c586f-a6e3-419b-89f1-b266602caddb.png)
+indevida");
+
