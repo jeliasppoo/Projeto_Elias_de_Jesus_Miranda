@@ -44,16 +44,19 @@ Trabalho Prático de Gerencia de Configurações
 
 ##Outras Ferramentas e relatórios: 
 1. 27 A Ferramenta disponibiliza um relatório que mostra todas as alterrações já feitas no repositório? 
+  **sim**
 - ![git log --pretty=oneline](https://user-images.githubusercontent.com/109083403/204067103-d0c753fd-9a9a-4587-bf3c-96380ade9b09.png)
-**sim**
-2. 28 A Ferramenta dispinibiliza um realatório que mostra todas as versões/alteraçoes de um único mocponete? 
-**sim**
+2. 28 A Ferramenta dispinibiliza um realatório que mostra todas as versões/alteraçoes de um único componete? 
+  **sim**
+- ![Relatorio dos Componetes](https://user-images.githubusercontent.com/109083403/204067247-9357c424-9dec-46d0-ad03-5220c5d0b0c7.png)
 3. 29 Aferramenta disponibiliza um realatório contendo as direnças entre as versões? 
-**sim**
+  **sim**
+  -![git log --graph -7](https://user-images.githubusercontent.com/109083403/204067418-3531e35e-4871-4944-97f2-f56f98aad570.png)
 4. 30 Quais são os outros relatórios a ferramenta disponibilizam?
-**sim**
+  **sim**
+  - Os demas relatório pode sem combinado da maneira que presisarmos
 5. 31 A ferramenta disponibiliza uma inteface gráfica para gerenciar a arvore de versões?
-**sim**
+  **sim**
 - ![Interface Gráfica](https://user-images.githubusercontent.com/109083403/204065524-611e19f8-da9c-4245-ba61-e0c022ef4c2a.png)
 6. Mostre uma interface gráfica que apresente como está a evolução do seu projeto. imagem exemplo de uma interface gráfica está abaixo. 
 - ![Evolução](https://user-images.githubusercontent.com/109083403/204065096-2d6c586f-a6e3-419b-89f1-b266602caddb.png)
